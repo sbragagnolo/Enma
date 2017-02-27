@@ -1,0 +1,14 @@
+{
+	"category" : "Enma-Roassal-Builder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EnmaShapeBuilder",
+	"pools" : [
+		 ],
+	"super" : "RTShapeBuilder",
+	"type" : "normal" }

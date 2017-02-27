@@ -1,0 +1,14 @@
+{
+	"category" : "Enma-Roassal-Trachel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"morph" ],
+	"name" : "EnmaRTMorph",
+	"pools" : [
+		 ],
+	"super" : "RTAbstractElementShape",
+	"type" : "normal" }

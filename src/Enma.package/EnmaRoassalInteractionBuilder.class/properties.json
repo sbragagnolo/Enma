@@ -1,0 +1,14 @@
+{
+	"category" : "Enma-Roassal-Builder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"i" ],
+	"name" : "EnmaRoassalInteractionBuilder",
+	"pools" : [
+		 ],
+	"super" : "RTInteractionBuilder",
+	"type" : "normal" }

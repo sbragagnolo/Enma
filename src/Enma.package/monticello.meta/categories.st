@@ -1,0 +1,11 @@
+SystemOrganization addCategory: #Enma!
+SystemOrganization addCategory: 'Enma-FastTable'!
+SystemOrganization addCategory: 'Enma-Model-Facades'!
+SystemOrganization addCategory: 'Enma-Model-Query'!
+SystemOrganization addCategory: 'Enma-Model-Renderer'!
+SystemOrganization addCategory: 'Enma-Model-Runner'!
+SystemOrganization addCategory: 'Enma-Roassal-Builder'!
+SystemOrganization addCategory: 'Enma-Roassal-Trachel'!
+SystemOrganization addCategory: 'Enma-Roassal-Trachel-Events'!
+SystemOrganization addCategory: 'Enma-Spec'!
+SystemOrganization addCategory: 'Enma-SpecUI'!

@@ -1,0 +1,15 @@
+{
+	"category" : "Enma-Model-Renderer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"iterator",
+		"display" ],
+	"name" : "EnmaBlockIteratorRenderer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

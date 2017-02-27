@@ -1,0 +1,14 @@
+{
+	"category" : "Enma-FastTable",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FTSmartTableMorph",
+	"pools" : [
+		 ],
+	"super" : "FTTableMorph",
+	"type" : "normal" }

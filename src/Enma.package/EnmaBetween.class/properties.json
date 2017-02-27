@@ -1,0 +1,15 @@
+{
+	"category" : "Enma-Model-Query",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"from",
+		"to" ],
+	"name" : "EnmaBetween",
+	"pools" : [
+		 ],
+	"super" : "EnmaAbstracTimeCondition",
+	"type" : "normal" }

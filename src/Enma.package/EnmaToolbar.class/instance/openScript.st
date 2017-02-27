@@ -1,0 +1,3 @@
+delegations
+openScript
+	browser openScript

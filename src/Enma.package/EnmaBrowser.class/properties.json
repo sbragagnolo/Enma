@@ -1,0 +1,15 @@
+{
+	"category" : "Enma-SpecUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"toolBar",
+		"manager" ],
+	"name" : "EnmaBrowser",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

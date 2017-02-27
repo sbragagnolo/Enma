@@ -1,0 +1,15 @@
+{
+	"category" : "Enma-FastTable",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"accessor",
+		"transform" ],
+	"name" : "FTSmartColumnDataSource",
+	"pools" : [
+		 ],
+	"super" : "FTSimpleDataSource",
+	"type" : "normal" }

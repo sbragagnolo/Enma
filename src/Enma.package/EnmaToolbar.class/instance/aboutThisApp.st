@@ -1,0 +1,3 @@
+delegations
+aboutThisApp
+	browser aboutThisApp

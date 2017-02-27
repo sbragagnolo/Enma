@@ -1,0 +1,14 @@
+{
+	"category" : "Enma-Spec",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"isForScriptingHolder" ],
+	"name" : "EnmaTextModel",
+	"pools" : [
+		 ],
+	"super" : "TextModel",
+	"type" : "normal" }

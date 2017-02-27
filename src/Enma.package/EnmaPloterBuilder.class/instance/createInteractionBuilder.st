@@ -1,0 +1,3 @@
+hooks
+createInteractionBuilder
+	^ EnmaRoassalInteractionBuilder new

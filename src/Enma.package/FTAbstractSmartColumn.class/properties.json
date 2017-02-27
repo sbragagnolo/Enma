@@ -1,0 +1,14 @@
+{
+	"category" : "Enma-FastTable",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"menuBuilder" ],
+	"name" : "FTAbstractSmartColumn",
+	"pools" : [
+		 ],
+	"super" : "FTColumn",
+	"type" : "normal" }

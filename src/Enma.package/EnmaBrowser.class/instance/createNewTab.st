@@ -1,0 +1,3 @@
+creation
+createNewTab
+	^ self addQueryTab 

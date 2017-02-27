@@ -1,0 +1,3 @@
+testing
+mayMeetConditionWithOlderBlocks: aDateAndTime
+	^ true 

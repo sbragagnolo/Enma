@@ -1,0 +1,14 @@
+{
+	"category" : "Enma-SpecUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"entryReference" ],
+	"name" : "EnmaContract",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

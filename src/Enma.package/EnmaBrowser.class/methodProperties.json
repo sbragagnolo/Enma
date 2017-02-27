@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"defaultSpec" : "SantiagoBragagnolo 2/16/2017 15:42" },
+	"instance" : {
+		"addQueryTab" : "SantiagoBragagnolo 2/18/2017 02:16",
+		"closeAllTabs" : "SantiagoBragagnolo 2/16/2017 16:02",
+		"closeAllTabsButCurrent" : "SantiagoBragagnolo 2/16/2017 16:05",
+		"createNewTab" : "SantiagoBragagnolo 2/16/2017 15:57",
+		"createToolBar" : "SantiagoBragagnolo 2/16/2017 15:41",
+		"extent" : "SantiagoBragagnolo 2/16/2017 15:50",
+		"initializeWidgets" : "SantiagoBragagnolo 2/16/2017 15:45",
+		"manager" : "SantiagoBragagnolo 2/16/2017 15:46",
+		"newEnmaTab" : "SantiagoBragagnolo 2/18/2017 02:16",
+		"runScript" : "SantiagoBragagnolo 2/18/2017 02:19",
+		"toolBar" : "SantiagoBragagnolo 2/16/2017 15:44" } }

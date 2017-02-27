@@ -1,0 +1,3 @@
+delegations
+reportIssue
+	browser reportIssue

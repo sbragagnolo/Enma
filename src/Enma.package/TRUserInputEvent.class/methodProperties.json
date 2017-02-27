@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"fromEvent:" : "SantiagoBragagnolo 2/23/2017 16:22" },
+	"instance" : {
+		"altKeyPressed" : "bliznjan 2/15/2016 15:02",
+		"anyModifierKeyPressed" : "bliznjan 2/15/2016 15:04",
+		"commandKeyPressed" : "bliznjan 2/15/2016 15:03",
+		"commandKeyPressed:" : "bliznjan 2/16/2016 15:23",
+		"controlKeyPressed" : "bliznjan 2/15/2016 15:02",
+		"controlKeyPressed:" : "bliznjan 2/16/2016 15:23",
+		"initialize" : "bliznjan 2/16/2016 13:24",
+		"modifiers:" : "bliznjan 2/16/2016 13:24",
+		"morphicEvent" : "SantiagoBragagnolo 2/24/2017 15:33",
+		"morphicEvent:" : "SantiagoBragagnolo 2/23/2017 16:22",
+		"optionKeyPressed" : "bliznjan 2/16/2016 13:20",
+		"optionKeyPressed:" : "bliznjan 2/16/2016 15:23",
+		"shiftKeyPressed" : "bliznjan 2/15/2016 15:01",
+		"shiftKeyPressed:" : "bliznjan 2/16/2016 15:23",
+		"shiftPressed" : "bliznjan 2/15/2016 15:01" } }

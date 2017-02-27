@@ -1,0 +1,3 @@
+delegations
+selectAllScript
+	browser selectAllScript

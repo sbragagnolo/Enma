@@ -1,0 +1,3 @@
+delegations
+copyScript
+	browser copyScript

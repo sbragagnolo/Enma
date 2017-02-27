@@ -1,0 +1,3 @@
+delegations
+closeAllTabsButCurrent
+	browser closeAllTabsButCurrent

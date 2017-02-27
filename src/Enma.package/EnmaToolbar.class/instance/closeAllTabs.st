@@ -1,0 +1,3 @@
+delegations
+closeAllTabs
+	browser closeAllTabs

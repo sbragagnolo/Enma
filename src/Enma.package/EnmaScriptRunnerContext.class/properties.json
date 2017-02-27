@@ -1,0 +1,16 @@
+{
+	"category" : "Enma-Model-Runner",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"plot",
+		"fetch",
+		"export" ],
+	"name" : "EnmaScriptRunnerContext",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

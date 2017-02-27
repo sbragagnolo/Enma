@@ -1,0 +1,3 @@
+delegations
+saveAllTabs
+	browser saveAllTabs

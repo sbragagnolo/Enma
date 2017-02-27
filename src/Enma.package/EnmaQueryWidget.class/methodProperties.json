@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"defaultSpec" : "SantiagoBragagnolo 2/16/2017 15:53",
+		"editionStripeHeight" : "SantiagoBragagnolo 2/16/2017 15:21",
+		"plottingAreaHeight" : "SantiagoBragagnolo 2/16/2017 15:01" },
+	"instance" : {
+		"contractFileNavigator" : "SantiagoBragagnolo 2/16/2017 14:51",
+		"createContractFileNavigator" : "SantiagoBragagnolo 2/16/2017 15:27",
+		"createPlottingArea" : "SantiagoBragagnolo 2/20/2017 15:23",
+		"createQueryEditor" : "SantiagoBragagnolo 2/17/2017 18:25",
+		"createScriptFileNavigator" : "SantiagoBragagnolo 2/16/2017 15:19",
+		"extent" : "SantiagoBragagnolo 2/16/2017 15:50",
+		"initializeWidgets" : "SantiagoBragagnolo 2/20/2017 14:43",
+		"labelContract" : "SantiagoBragagnolo 2/16/2017 15:39",
+		"labelFile" : "SantiagoBragagnolo 2/16/2017 15:39",
+		"labelPlottingArea" : "SantiagoBragagnolo 2/16/2017 15:54",
+		"labelQuery" : "SantiagoBragagnolo 2/16/2017 15:52",
+		"plotterBase" : "SantiagoBragagnolo 2/16/2017 14:49",
+		"plottingArea" : "SantiagoBragagnolo 2/16/2017 14:51",
+		"plottingAreaView" : "SantiagoBragagnolo 2/18/2017 02:43",
+		"queryEditor" : "SantiagoBragagnolo 2/16/2017 14:51",
+		"renderQuery:" : "SantiagoBragagnolo 2/24/2017 12:09",
+		"runScript" : "SantiagoBragagnolo 2/18/2017 02:21",
+		"scriptFileNavigator" : "SantiagoBragagnolo 2/16/2017 14:51",
+		"view:" : "SantiagoBragagnolo 2/20/2017 14:45" } }

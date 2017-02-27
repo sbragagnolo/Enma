@@ -1,0 +1,15 @@
+{
+	"category" : "Enma-FastTable",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rowIndex",
+		"colIndex" ],
+	"name" : "FTIndexAwareCellMorph",
+	"pools" : [
+		 ],
+	"super" : "FTCellMorph",
+	"type" : "normal" }

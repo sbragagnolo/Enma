@@ -1,0 +1,17 @@
+{
+	"category" : "Enma-Model-Query",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"condition",
+		"limit",
+		"timecondition",
+		"blocks" ],
+	"name" : "EnmaBlockIterator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

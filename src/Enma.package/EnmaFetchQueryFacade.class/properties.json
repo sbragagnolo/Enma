@@ -1,0 +1,14 @@
+{
+	"category" : "Enma-Model-Facades",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EnmaFetchQueryFacade",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

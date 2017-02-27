@@ -1,0 +1,23 @@
+{
+	"category" : "Enma-SpecUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"queryEditor",
+		"scriptFileNavigator",
+		"contractFileNavigator",
+		"plottingArea",
+		"labelContract",
+		"labelFile",
+		"labelQuery",
+		"labelPlottingArea",
+		"plottingAreaView",
+		"view" ],
+	"name" : "EnmaQueryWidget",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

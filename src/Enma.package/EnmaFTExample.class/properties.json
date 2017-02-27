@@ -1,0 +1,14 @@
+{
+	"category" : "Enma-FastTable",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EnmaFTExample",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

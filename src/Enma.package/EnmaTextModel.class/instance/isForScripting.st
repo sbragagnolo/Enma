@@ -1,0 +1,3 @@
+api
+isForScripting
+	^ isForScriptingHolder value

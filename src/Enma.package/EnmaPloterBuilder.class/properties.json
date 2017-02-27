@@ -1,0 +1,14 @@
+{
+	"category" : "Enma-Roassal-Builder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"edgeBuilder" ],
+	"name" : "EnmaPloterBuilder",
+	"pools" : [
+		 ],
+	"super" : "RTBuilder",
+	"type" : "normal" }

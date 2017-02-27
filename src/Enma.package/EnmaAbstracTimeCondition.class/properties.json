@@ -1,0 +1,14 @@
+{
+	"category" : "Enma-Model-Query",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EnmaAbstracTimeCondition",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Enma-SpecUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"model" ],
+	"name" : "EnmaTabModel",
+	"pools" : [
+		 ],
+	"super" : "TabModel",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Enma-Model-Facades",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EnmaPlotterFacade",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

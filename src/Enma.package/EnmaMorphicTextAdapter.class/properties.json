@@ -1,0 +1,14 @@
+{
+	"category" : "Enma-Spec",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EnmaMorphicTextAdapter",
+	"pools" : [
+		 ],
+	"super" : "MorphicTextAdapter",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+initialization
+labelQuery
+	^ labelQuery
