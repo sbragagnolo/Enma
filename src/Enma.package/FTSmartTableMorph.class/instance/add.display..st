@@ -1,4 +1,4 @@
-as yet unclassified
+adding
 add: aColumnName display: aDisplayBlock
 	| col |
 	col := FTSmartColumn

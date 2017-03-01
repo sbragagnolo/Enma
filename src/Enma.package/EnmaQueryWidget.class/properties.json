@@ -14,8 +14,8 @@
 		"labelFile",
 		"labelQuery",
 		"labelPlottingArea",
-		"plottingAreaView",
-		"view" ],
+		"view",
+		"plotter" ],
 	"name" : "EnmaQueryWidget",
 	"pools" : [
 		 ],

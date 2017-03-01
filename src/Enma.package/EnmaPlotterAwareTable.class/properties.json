@@ -1,0 +1,14 @@
+{
+	"category" : "Enma-FastTable",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"plotter" ],
+	"name" : "EnmaPlotterAwareTable",
+	"pools" : [
+		 ],
+	"super" : "FTSmartTableMorph",
+	"type" : "normal" }

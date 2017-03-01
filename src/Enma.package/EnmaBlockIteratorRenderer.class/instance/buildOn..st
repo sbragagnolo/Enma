@@ -1,7 +1,9 @@
 builder
-buildOn: anEnmaBuilder
-	anEnmaBuilder shapeBuilder
+buildOn: aPlotter
+	| builder |
+	builder := aPlotter enmaBuilderOnGroup: #query.
+	builder shapeBuilder
 		enmaMorph;
-		morph: self table.
-	anEnmaBuilder interactions bindAllMorphEvents.
-	anEnmaBuilder elementOn: iterator
+		morph: (self buildTable: aPlotter createPlotterAwareTable).
+	builder interactions bindAllMorphEvents.
+	builder elementOn: iterator

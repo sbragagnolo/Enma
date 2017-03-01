@@ -1,0 +1,15 @@
+{
+	"category" : "Enma-Model-Renderer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"value",
+		"plotter" ],
+	"name" : "EnmaRenderableValue",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

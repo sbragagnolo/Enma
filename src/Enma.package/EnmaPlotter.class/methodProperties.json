@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"builder:onGroup:" : "SantiagoBragagnolo 3/1/2017 17:11",
+		"cleanUp" : "SantiagoBragagnolo 3/1/2017 16:42",
+		"createPlotterAwareTable" : "SantiagoBragagnolo 2/28/2017 18:53",
+		"enmaBuilderOnGroup:" : "SantiagoBragagnolo 3/1/2017 16:38",
+		"initializeWithView:" : "SantiagoBragagnolo 2/28/2017 18:26",
+		"plot" : "SantiagoBragagnolo 2/28/2017 18:28" } }

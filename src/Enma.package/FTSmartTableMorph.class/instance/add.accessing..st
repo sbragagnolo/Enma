@@ -1,4 +1,4 @@
-as yet unclassified
+adding
 add: aColumnName accessing: anAccessorSymbol 
 	| col |
 	col := FTSmartColumn

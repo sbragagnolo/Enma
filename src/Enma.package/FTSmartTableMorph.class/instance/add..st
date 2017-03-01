@@ -1,4 +1,4 @@
-as yet unclassified
+adding
 add: aColumnName
 	| col |
 	col := (FTSmartColumn id: aColumnName)

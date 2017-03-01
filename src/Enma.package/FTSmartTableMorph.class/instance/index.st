@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 index
 	^ columns first isIndex
 		ifTrue: [ columns first ]

@@ -1,4 +1,4 @@
-as yet unclassified
+adding
 add: aColumnName menu: aMenuBuildingBlock
 	| col |
 	col := (FTSmartColumn id: aColumnName)
