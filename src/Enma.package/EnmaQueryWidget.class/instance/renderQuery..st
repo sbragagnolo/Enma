@@ -3,5 +3,7 @@ renderQuery: anEnmaRenderable
 	"	anEnmaRenderable renderer rtTableElement renderInto: self plottingAreaView."
 
 	plotter cleanUp.
-	anEnmaRenderable renderer buildOn: plotter.
+	anEnmaRenderable renderer buildOn: plotter atGroup: #query.
 	plotter plot
+	
+

@@ -1,0 +1,18 @@
+{
+	"category" : "Enma-SpecUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"composer",
+		"groups",
+		"layout",
+		"edges",
+		"edgeBuilder" ],
+	"name" : "EnmaPloter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

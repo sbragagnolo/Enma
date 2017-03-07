@@ -2,6 +2,6 @@ initialization
 createPlottingArea
 	| diagram |
 	diagram := self instantiate: RoassalModel.
-	plotter := EnmaPlotter new.
+	plotter := EnmaPloter new.
 	diagram script: [ :aView :canvas | plotter initializeWithView: aView ].
 	^ diagram

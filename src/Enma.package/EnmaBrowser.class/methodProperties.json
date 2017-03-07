@@ -1,6 +1,7 @@
 {
 	"class" : {
-		"defaultSpec" : "SantiagoBragagnolo 2/16/2017 15:42" },
+		"defaultSpec" : "SantiagoBragagnolo 2/16/2017 15:42",
+		"menuCommandOn:" : "SantiagoBragagnolo 3/6/2017 11:13" },
 	"instance" : {
 		"addQueryTab" : "SantiagoBragagnolo 2/18/2017 02:16",
 		"closeAllTabs" : "SantiagoBragagnolo 2/16/2017 16:02",

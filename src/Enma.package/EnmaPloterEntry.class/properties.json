@@ -1,0 +1,15 @@
+{
+	"category" : "Enma-SpecUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"builder",
+		"name" ],
+	"name" : "EnmaPloterEntry",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

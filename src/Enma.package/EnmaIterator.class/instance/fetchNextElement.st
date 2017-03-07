@@ -1,0 +1,3 @@
+access
+fetchNextElement
+	self subclassResponsibility 

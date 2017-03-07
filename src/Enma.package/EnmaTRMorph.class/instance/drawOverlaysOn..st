@@ -5,8 +5,7 @@ drawOverlaysOn: aCanvas
 	| pathTransform |
 	pathTransform := aCanvas pathTransform.
 	pathTransform
-		restoreAfter: [ pathTransform translateBy: morph innerBounds topLeft.
+		restoreAfter: [" pathTransform translateBy: morph innerBounds topLeft."
 			morph hasFocus not
-				ifTrue: [ aCanvas setPaint: (Color yellow alpha: 0.05).
-					aCanvas drawShape: (0 @ 0 extent: morph innerBounds extent).
- ] ]
+				ifTrue: [ aCanvas setPaint: (Color white alpha: 0.05).
+					aCanvas drawShape: (0 @ 0 extent: morph innerBounds extent) ] ]

@@ -1,0 +1,3 @@
+construction
+defaultDisplay
+	self subclassResponsibility 

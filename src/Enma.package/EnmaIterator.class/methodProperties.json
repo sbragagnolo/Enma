@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"asArray" : "SantiagoBragagnolo 3/3/2017 10:31",
+		"at:" : "SantiagoBragagnolo 3/3/2017 13:21",
+		"between:and:" : "SantiagoBragagnolo 3/3/2017 10:28",
+		"connection" : "SantiagoBragagnolo 3/3/2017 10:28",
+		"copyFrom:to:" : "SantiagoBragagnolo 3/3/2017 13:29",
+		"do:" : "SantiagoBragagnolo 3/3/2017 10:31",
+		"elementMeetsConditions:" : "SantiagoBragagnolo 3/3/2017 12:04",
+		"fetchElement:" : "SantiagoBragagnolo 3/6/2017 11:44",
+		"fetchNextElement" : "SantiagoBragagnolo 3/3/2017 11:21",
+		"hasElement:" : "SantiagoBragagnolo 3/3/2017 17:18",
+		"initialize" : "SantiagoBragagnolo 3/6/2017 11:19",
+		"limit:" : "SantiagoBragagnolo 3/3/2017 10:28",
+		"readStream" : "SantiagoBragagnolo 3/3/2017 12:24",
+		"size" : "SantiagoBragagnolo 3/3/2017 13:21",
+		"that:" : "SantiagoBragagnolo 3/3/2017 10:28" } }

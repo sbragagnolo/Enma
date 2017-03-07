@@ -1,3 +1,3 @@
 accessing
 morph: aFTPluggableIconListMorphAdaptor 
-	morph := aFTPluggableIconListMorphAdaptor
+	morph := aFTPluggableIconListMorphAdaptor.

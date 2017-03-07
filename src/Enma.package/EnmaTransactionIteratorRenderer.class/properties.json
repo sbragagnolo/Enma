@@ -1,0 +1,14 @@
+{
+	"category" : "Enma-Model-Renderer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EnmaTransactionIteratorRenderer",
+	"pools" : [
+		 ],
+	"super" : "EnmaIteratorRenderer",
+	"type" : "normal" }

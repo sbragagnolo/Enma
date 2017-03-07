@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"iterator",
-		"display" ],
+		 ],
 	"name" : "EnmaBlockIteratorRenderer",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "EnmaIteratorRenderer",
 	"type" : "normal" }

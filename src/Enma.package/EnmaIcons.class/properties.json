@@ -1,0 +1,14 @@
+{
+	"category" : "Enma-SpecUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"icons" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EnmaIcons",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

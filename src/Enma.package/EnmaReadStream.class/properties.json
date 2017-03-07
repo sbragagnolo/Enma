@@ -1,0 +1,14 @@
+{
+	"category" : "Enma-Model-Query",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EnmaReadStream",
+	"pools" : [
+		 ],
+	"super" : "ReadStream",
+	"type" : "normal" }

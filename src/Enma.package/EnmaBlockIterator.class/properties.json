@@ -6,12 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"condition",
-		"limit",
-		"timecondition",
-		"blocks" ],
+		 ],
 	"name" : "EnmaBlockIterator",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "EnmaIterator",
 	"type" : "normal" }

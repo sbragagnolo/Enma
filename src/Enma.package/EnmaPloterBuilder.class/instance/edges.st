@@ -1,7 +1,7 @@
 accessing
 edges
 	edgeBuilder 
-		elements: self currentElements; 
+		elements: self createdElements; 
 		view: view;
 		shapeBuilder: shapeBuilder.
 	^ edgeBuilder

@@ -2,8 +2,5 @@
 	"class" : {
 		 },
 	"instance" : {
-		"buildOn:" : "SantiagoBragagnolo 3/1/2017 16:38",
-		"buildTable:" : "SantiagoBragagnolo 3/1/2017 15:53",
-		"display:" : "SantiagoBragagnolo 2/27/2017 17:57",
-		"initialize" : "SantiagoBragagnolo 2/27/2017 18:02",
-		"iterator:" : "SantiagoBragagnolo 2/18/2017 02:27" } }
+		"buildMenuOnTable:" : "SantiagoBragagnolo 3/6/2017 17:09",
+		"defaultDisplay" : "SantiagoBragagnolo 3/3/2017 16:28" } }
