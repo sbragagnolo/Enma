@@ -1,0 +1,1 @@
+Iterator configurable for specific restrictions .It allows to convert it self into array and it provides a stream object as well 

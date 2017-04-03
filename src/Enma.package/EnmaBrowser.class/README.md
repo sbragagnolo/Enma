@@ -1,0 +1,1 @@
+Main window definition of the Enma browser 

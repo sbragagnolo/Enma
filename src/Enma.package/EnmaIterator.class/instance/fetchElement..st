@@ -1,7 +1,7 @@
 access
 fetchElement: anInteger
 	| previousSize |
-	elements size > anInteger
+	elements size >= anInteger
 		ifTrue: [ ^ elements at: anInteger ].
 	previousSize := elements size.
 	self fetchNextElement.

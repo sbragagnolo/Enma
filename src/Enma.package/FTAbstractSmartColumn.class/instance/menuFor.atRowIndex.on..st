@@ -1,4 +1,4 @@
-as yet unclassified
+delegation
 menuFor: aDomainObject atRowIndex: anIndex on: aTable
 	^ menuBuilder
 		ifNotNil: [ | menu |

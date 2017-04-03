@@ -1,0 +1,1 @@
+Extention of the spec adapter that adds scripting support 

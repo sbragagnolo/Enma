@@ -1,0 +1,1 @@
+Specific implementation that allows to be rendered 

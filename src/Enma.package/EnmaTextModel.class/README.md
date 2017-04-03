@@ -1,0 +1,1 @@
+Extention for text model that add scripting configuration 

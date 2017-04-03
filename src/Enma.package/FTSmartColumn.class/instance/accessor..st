@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 accessor: aSymbol
 	self assert: aSymbol isUnary.
 	accessor := aSymbol

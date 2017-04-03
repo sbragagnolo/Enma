@@ -1,3 +1,3 @@
 configuring
 readStream
-	^ ReadStream on: self
+	^ EnmaReadStream on: self

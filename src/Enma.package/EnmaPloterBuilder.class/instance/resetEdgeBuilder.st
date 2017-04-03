@@ -1,3 +1,4 @@
 initialization
 resetEdgeBuilder
-	edgeBuilder := RTEdgeBuilder new
+	edgeBuilder := RTEdgeBuilder new.
+	

@@ -1,10 +1,8 @@
 construction
 buildTable: table
-	| array |
-	array := iterator asArray.
 	table
 		showRowIndex;
-		elements: array;
+		elements: iterator;
 		extent: 600 @ 200;
 		beMultipleSelection;
 		yourself.

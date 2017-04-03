@@ -4,7 +4,8 @@ drawOn: athensCanvas
 
 	| clip |
 	morph position: self position.
-	self position logCr. 
-	morph fullDrawOnAthensCanvas: athensCanvas.
 	clip := morph clippingBounds.
-	athensCanvas clipBy: clip during: [ self drawOverlaysOn: athensCanvas ]
+	athensCanvas
+		clipBy: clip
+		during: [ morph fullDrawOnAthensCanvas: athensCanvas.
+			self drawOverlaysOn: athensCanvas ]

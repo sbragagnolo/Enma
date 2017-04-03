@@ -1,4 +1,4 @@
-as yet unclassified
+configuration
 showRowIndex
 	columns ifEmpty: [ columns := {(FTSmartIndexColumn id: '#')} ].
 	columns first isIndex

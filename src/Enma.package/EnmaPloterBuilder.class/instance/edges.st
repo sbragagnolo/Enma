@@ -1,7 +1,8 @@
 accessing
 edges
-	edgeBuilder 
-		elements: self createdElements; 
+	shapeBuilder shape: RTBezier3Line new.
+	edgeBuilder
+		elements: self createdElements;
 		view: view;
 		shapeBuilder: shapeBuilder.
 	^ edgeBuilder

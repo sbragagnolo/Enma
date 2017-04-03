@@ -1,0 +1,1 @@
+Query object. Allows to define a time related restriction: Null object

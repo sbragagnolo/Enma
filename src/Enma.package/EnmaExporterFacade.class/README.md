@@ -1,0 +1,1 @@
+Gives the scripting support to export variable  (Exporting - reporting)

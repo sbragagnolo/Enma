@@ -1,0 +1,3 @@
+testing
+contents
+	^ collection shallowCopy 

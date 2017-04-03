@@ -1,0 +1,1 @@
+Stream that uses a EnmaIterator as content. 

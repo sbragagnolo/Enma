@@ -4,9 +4,9 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "SantiagoBragagnolo 3/22/2017 16:50",
 	"instvars" : [
-		 ],
+		"selections" ],
 	"name" : "FTSmartTableMorph",
 	"pools" : [
 		 ],

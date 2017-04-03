@@ -4,6 +4,8 @@ defaultSpec
 	^ SpecLayout composed
 		newColumn: [ :c | 
 			c
+				newRow: [ :row | row add: #plottingArea ];
+"				newRow: #labelPlottingArea height: self toolbarHeight;"
 				newRow: [ :row | 
 					row
 						newColumn: [ :col | 
@@ -20,6 +22,4 @@ defaultSpec
 								newRow: #labelContract height: self toolbarHeight;
 								newRow: #contractFileNavigator ]
 							width: 200 ]
-					height: self editionStripeHeight;
-				newRow: #labelPlottingArea height: self toolbarHeight;
-				newRow: [ :row | row add: #plottingArea ] ]
+					height: self editionStripeHeight ]

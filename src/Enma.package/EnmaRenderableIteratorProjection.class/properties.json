@@ -1,0 +1,15 @@
+{
+	"category" : "Enma-Model-Query",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"source",
+		"selection" ],
+	"name" : "EnmaRenderableIteratorProjection",
+	"pools" : [
+		 ],
+	"super" : "EnmaIterator",
+	"type" : "normal" }

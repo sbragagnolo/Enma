@@ -1,4 +1,4 @@
-as yet unclassified
+delegation
 buildCellForValue: aValue atRowIndex: anIndex
 	^ FTIndexAwareCellMorph new
 		rowIndex: anIndex;

@@ -1,0 +1,1 @@
+Gives the scripting support to fetch variable (Query)

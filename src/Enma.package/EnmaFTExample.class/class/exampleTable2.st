@@ -1,4 +1,4 @@
-as yet unclassified
+examples
 exampleTable2
 	"Show a table with all Object methods, with a fixed width"
 

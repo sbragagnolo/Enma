@@ -1,3 +1,3 @@
-as yet unclassified
+delegation
 valueToShow: aDomainObject atRowIndex: anIndex
 	^ self subclassResponsibility
