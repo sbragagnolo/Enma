@@ -1,3 +1,3 @@
 access
 elementMeetsConditions: anElement
-	^ (condition value: anElement) and: [ timecondition value: anElement timestamp ]
+	^ (self condition value: anElement) and: [ timecondition value: anElement timestamp ]

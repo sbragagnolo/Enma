@@ -1,0 +1,1 @@
+Gives the scripting support to send variable  (send from: #to: # ammount: #ammount  )

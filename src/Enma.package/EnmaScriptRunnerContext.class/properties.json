@@ -8,7 +8,9 @@
 	"instvars" : [
 		"plot",
 		"fetch",
-		"export" ],
+		"export",
+		"create",
+		"send" ],
 	"name" : "EnmaScriptRunnerContext",
 	"pools" : [
 		 ],
