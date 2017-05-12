@@ -1,14 +1,13 @@
 {
-	"category" : "Enma-Model-Query",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 3/22/2017 16:53",
-	"instvars" : [
-		"source" ],
-	"name" : "EnmaTransactionIterator",
-	"pools" : [
-		 ],
 	"super" : "EnmaIterator",
-	"type" : "normal" }
+	"category" : "Enma-Model-Query",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"source"
+	],
+	"name" : "EnmaTransactionIterator",
+	"type" : "normal"
+}

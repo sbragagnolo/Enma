@@ -1,14 +1,13 @@
 {
-	"category" : "Enma-Model-Query",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 3/22/2017 16:53",
-	"instvars" : [
-		"display" ],
-	"name" : "EnmaRenderableBlockIterator",
-	"pools" : [
-		 ],
 	"super" : "EnmaBlockIterator",
-	"type" : "normal" }
+	"category" : "Enma-Model-Query",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"display"
+	],
+	"name" : "EnmaRenderableBlockIterator",
+	"type" : "normal"
+}

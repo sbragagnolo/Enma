@@ -1,14 +1,13 @@
 {
-	"category" : "Enma-FastTable",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 3/22/2017 16:47",
-	"instvars" : [
-		"menuBuilder" ],
-	"name" : "FTAbstractSmartColumn",
-	"pools" : [
-		 ],
 	"super" : "FTColumn",
-	"type" : "normal" }
+	"category" : "Enma-FastTable",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"menuBuilder"
+	],
+	"name" : "FTAbstractSmartColumn",
+	"type" : "normal"
+}

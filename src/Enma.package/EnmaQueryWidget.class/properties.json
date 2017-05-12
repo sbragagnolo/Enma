@@ -1,10 +1,10 @@
 {
-	"category" : "Enma-SpecUI",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 3/22/2017 17:02",
+	"super" : "ComposableModel",
+	"category" : "Enma-SpecUI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"queryEditor",
 		"scriptFileNavigator",
@@ -15,9 +15,8 @@
 		"labelQuery",
 		"labelPlottingArea",
 		"view",
-		"plotter" ],
+		"plotter"
+	],
 	"name" : "EnmaQueryWidget",
-	"pools" : [
-		 ],
-	"super" : "ComposableModel",
-	"type" : "normal" }
+	"type" : "normal"
+}

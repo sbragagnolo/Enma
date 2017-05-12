@@ -1,14 +1,13 @@
 {
-	"category" : "Enma-FastTable",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 3/22/2017 16:50",
-	"instvars" : [
-		"selections" ],
-	"name" : "FTSmartTableMorph",
-	"pools" : [
-		 ],
 	"super" : "FTTableMorph",
-	"type" : "normal" }
+	"category" : "Enma-FastTable",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"selections"
+	],
+	"name" : "FTSmartTableMorph",
+	"type" : "normal"
+}

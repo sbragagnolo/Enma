@@ -1,17 +1,16 @@
 {
-	"category" : "Enma-Model-Query",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 3/22/2017 16:53",
+	"super" : "Object",
+	"category" : "Enma-Model-Query",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"condition",
 		"limit",
 		"timecondition",
-		"elements" ],
+		"elements"
+	],
 	"name" : "EnmaIterator",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

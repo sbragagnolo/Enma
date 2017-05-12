@@ -1,15 +1,14 @@
 {
-	"category" : "Enma-FastTable",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "FTCellMorph",
+	"category" : "Enma-FastTable",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"rowIndex",
-		"colIndex" ],
+		"colIndex"
+	],
 	"name" : "FTIndexAwareCellMorph",
-	"pools" : [
-		 ],
-	"super" : "FTCellMorph",
-	"type" : "normal" }
+	"type" : "normal"
+}

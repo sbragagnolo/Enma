@@ -1,10 +1,10 @@
 {
-	"category" : "Enma-SpecUI",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 3/22/2017 17:03",
+	"super" : "ComposableModel",
+	"category" : "Enma-SpecUI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"file",
 		"edit",
@@ -12,9 +12,8 @@
 		"tabs",
 		"menu",
 		"help",
-		"browser" ],
+		"browser"
+	],
 	"name" : "EnmaToolbar",
-	"pools" : [
-		 ],
-	"super" : "ComposableModel",
-	"type" : "normal" }
+	"type" : "normal"
+}

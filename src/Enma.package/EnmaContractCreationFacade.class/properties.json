@@ -1,14 +1,11 @@
 {
-	"category" : "Enma-Model-Facades",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 4/5/2017 12:22",
-	"instvars" : [
-		 ],
-	"name" : "EnmaContractCreationFacade",
-	"pools" : [
-		 ],
 	"super" : "Object",
-	"type" : "normal" }
+	"category" : "Enma-Model-Facades",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "EnmaContractCreationFacade",
+	"type" : "normal"
+}

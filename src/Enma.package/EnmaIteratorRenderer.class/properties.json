@@ -1,15 +1,14 @@
 {
-	"category" : "Enma-Model-Renderer",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 3/22/2017 16:55",
+	"super" : "Object",
+	"category" : "Enma-Model-Renderer",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"iterator",
-		"display" ],
+		"display"
+	],
 	"name" : "EnmaIteratorRenderer",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

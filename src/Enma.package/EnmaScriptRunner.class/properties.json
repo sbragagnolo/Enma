@@ -1,14 +1,13 @@
 {
-	"category" : "Enma-Model-Runner",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"context" ],
-	"name" : "EnmaScriptRunner",
-	"pools" : [
-		 ],
 	"super" : "Object",
-	"type" : "normal" }
+	"category" : "Enma-Model-Runner",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"context"
+	],
+	"name" : "EnmaScriptRunner",
+	"type" : "normal"
+}

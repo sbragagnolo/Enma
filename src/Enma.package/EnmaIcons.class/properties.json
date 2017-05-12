@@ -1,14 +1,13 @@
 {
-	"category" : "Enma-SpecUI",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		"icons" ],
 	"commentStamp" : "SantiagoBragagnolo 3/22/2017 17:00",
-	"instvars" : [
-		 ],
-	"name" : "EnmaIcons",
-	"pools" : [
-		 ],
 	"super" : "Object",
-	"type" : "normal" }
+	"category" : "Enma-SpecUI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"icons"
+	],
+	"instvars" : [ ],
+	"name" : "EnmaIcons",
+	"type" : "normal"
+}

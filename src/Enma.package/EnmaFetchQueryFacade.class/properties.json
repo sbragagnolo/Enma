@@ -1,14 +1,11 @@
 {
-	"category" : "Enma-Model-Facades",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 3/22/2017 16:51",
-	"instvars" : [
-		 ],
-	"name" : "EnmaFetchQueryFacade",
-	"pools" : [
-		 ],
 	"super" : "Object",
-	"type" : "normal" }
+	"category" : "Enma-Model-Facades",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "EnmaFetchQueryFacade",
+	"type" : "normal"
+}

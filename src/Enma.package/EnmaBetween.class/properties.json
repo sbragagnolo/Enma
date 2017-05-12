@@ -1,15 +1,14 @@
 {
-	"category" : "Enma-Model-Query",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 3/22/2017 16:52",
+	"super" : "EnmaAbstracTimeCondition",
+	"category" : "Enma-Model-Query",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"from",
-		"to" ],
+		"to"
+	],
 	"name" : "EnmaBetween",
-	"pools" : [
-		 ],
-	"super" : "EnmaAbstracTimeCondition",
-	"type" : "normal" }
+	"type" : "normal"
+}

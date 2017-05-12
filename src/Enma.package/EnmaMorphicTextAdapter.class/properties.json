@@ -1,14 +1,11 @@
 {
-	"category" : "Enma-Spec",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 3/22/2017 16:59",
-	"instvars" : [
-		 ],
-	"name" : "EnmaMorphicTextAdapter",
-	"pools" : [
-		 ],
 	"super" : "MorphicTextAdapter",
-	"type" : "normal" }
+	"category" : "Enma-Spec",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "EnmaMorphicTextAdapter",
+	"type" : "normal"
+}

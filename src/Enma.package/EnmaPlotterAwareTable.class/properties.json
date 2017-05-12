@@ -1,14 +1,13 @@
 {
-	"category" : "Enma-FastTable",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 3/22/2017 16:50",
-	"instvars" : [
-		"plotter" ],
-	"name" : "EnmaPlotterAwareTable",
-	"pools" : [
-		 ],
 	"super" : "FTSmartTableMorph",
-	"type" : "normal" }
+	"category" : "Enma-FastTable",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"plotter"
+	],
+	"name" : "EnmaPlotterAwareTable",
+	"type" : "normal"
+}

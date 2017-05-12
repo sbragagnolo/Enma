@@ -1,18 +1,17 @@
 {
-	"category" : "Enma-Roassal-Trachel-Events",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "TRShapeEvent",
+	"category" : "Enma-Roassal-Trachel-Events",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"commandKeyPressed",
 		"controlKeyPressed",
 		"shiftKeyPressed",
 		"optionKeyPressed",
-		"morphicEvent" ],
+		"morphicEvent"
+	],
 	"name" : "TRUserInputEvent",
-	"pools" : [
-		 ],
-	"super" : "TRShapeEvent",
-	"type" : "normal" }
+	"type" : "normal"
+}
