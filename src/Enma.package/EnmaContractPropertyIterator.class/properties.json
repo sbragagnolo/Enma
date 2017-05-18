@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "SantiagoBragagnolo 5/18/2017 14:22",
+	"super" : "EnmaIterator",
+	"category" : "Enma-Model-Query",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"display",
+		"source"
+	],
+	"name" : "EnmaContractPropertyIterator",
+	"type" : "normal"
+}

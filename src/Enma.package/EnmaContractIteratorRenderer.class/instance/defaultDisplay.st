@@ -1,0 +1,3 @@
+construction
+defaultDisplay
+	^ #(contractDescriptionName contractAddress)

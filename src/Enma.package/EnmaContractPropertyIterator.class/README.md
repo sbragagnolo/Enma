@@ -1,0 +1,1 @@
+Uses contract  properties as a stream

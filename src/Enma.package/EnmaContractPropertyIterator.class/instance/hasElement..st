@@ -1,0 +1,3 @@
+accessing
+hasElement: anInteger
+	^ true 

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "EnmaIteratorRenderer",
+	"category" : "Enma-Model-Renderer",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "EnmaContractPropertyIteratorRenderer",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+construction
+defaultDisplay
+	^ #(propertyName propertyValue)

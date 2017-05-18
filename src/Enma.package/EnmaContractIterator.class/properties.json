@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "EnmaIterator",
+	"category" : "Enma-Model-Query",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"display"
+	],
+	"name" : "EnmaContractIterator",
+	"type" : "normal"
+}
