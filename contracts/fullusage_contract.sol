@@ -13,7 +13,9 @@ contract FullUsage {
 
    /* Type Definition */
     enum EnumDefinition { POSITIVE , NEGATIVE , NEUTRAL }
-    
+    struct Arbitrary { int i; int x; string str; }
+
+
    /* Properties */
     address owner;
     string str;
@@ -21,6 +23,9 @@ contract FullUsage {
     int256 positiveInt; 
     EnumDefinition enumEntry;
     int256[] commonArray;
+     
+     Arbitrary [] public test;
+
     string str2;
     
      /* Constructor */
@@ -33,8 +38,9 @@ contract FullUsage {
 	str = 'String';
 	enumEntry = EnumDefinition.NEUTRAL;
     }
-
-
+// function getTestReturn () constant returns ( Arbitrary [] ) {
+// 	return test;
+//}
     function setString (string value) {
       str = value;
     }
@@ -74,26 +80,26 @@ contract FullUsage {
 	en = enumEntry; 
     }
   /* Setting And getting array */
-    function setSimpleArray (int [] value) {
+    function setSimpleArray (int256 [] value) {
           commonArray = value;
     }
  
   /* Setting And getting signed int */
-    function setNegativeInt(int negative) {
+    function setNegativeInt(int256 negative) {
       if (negative > 0) throw; 
       negativeInt = negative;
     }
     
-    function setPositiveInt(int positive) {
+    function setPositiveInt(int256 positive) {
       if (positive < 0) throw;
       positiveInt = positive;
     }
     
-    function getNegativeInt() constant returns (int ret) {
+    function getNegativeInt() constant returns (int256 ret) {
        ret = negativeInt;
     }
 
-    function getPositiveInt() constant returns (int ret) {
+    function getPositiveInt() constant returns (int256 ret) {
        ret = positiveInt;
     }
 
