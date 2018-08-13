@@ -11,4 +11,5 @@ baseline: spec
 						version: #stable;
 						repository: 'http://www.smalltalkhub.com/mc/ObjectProfile/Roassal2/main' ].
 			spec baseline: 'SmartShackle' with: [ spec repository: 'github://sbragagnolo/SmartShackle/src' ].
-			spec package: #Enma with: [ spec requires: #( Roassal2 SmartShackle) ] ]
+			spec baseline: 'UQLL' with: [ spec repository: 'github://smartshackle/UQLL/src' ].
+			spec package: #Enma with: [ spec requires: #(Roassal2 SmartShackle UQLL) ] ]
