@@ -1,3 +1,0 @@
-*Enma
-hasRow: anInteger 
-	^ true

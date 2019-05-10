@@ -1,1 +1,0 @@
-I am a datasource that delegate in the column object for talking to the object. 

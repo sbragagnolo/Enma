@@ -10,5 +10,6 @@ baseline: spec
 						className: #ConfigurationOfRoassal2;
 						version: #stable;
 						repository: 'http://www.smalltalkhub.com/mc/ObjectProfile/Roassal2/main' ].
+			spec baseline: 'FastTableExtentions' with: [ spec repository: 'github://sbragagnolo/FastTableExtention/src' ].
 			spec baseline: 'SmartShackle' with: [ spec repository: 'github://sbragagnolo/SmartShackle/src' ].
-			spec package: #Enma with: [ spec requires: #( Roassal2 SmartShackle) ] ]
+			spec package: #Enma with: [ spec requires: #(Roassal2 SmartShackle FastTableExtentions) ] ]
